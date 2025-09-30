@@ -21,3 +21,10 @@
    - CI/CD feature
    - A huge support of plugins
    - Distributed
+
+## How to start
+   - Related commands are available in commands.md file
+   - Install Jenkins
+   - We can install as a container from Docker hub or locally on os(depends on use case)
+   - Once install, start the jenkins service
+   - We can run it on browser, default port is 8080, ip can be figured out with command
